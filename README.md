@@ -1,5 +1,6 @@
 # git-docs
 
+#### git commands for new projects
 ```git
  git init
  git add .
