@@ -5,9 +5,9 @@
  git init
  git add .
  git commit -m "first commit"
- git branch -M master
+ git branch -M newbranch
  git remote add origin https://github.com/Ajit1565/git-docs.git
- git push -u origin master
+ git push -u origin newbranch
  
 ```
 
@@ -25,7 +25,15 @@
   git status
   git push origin master
   
+  
+  Steps to remove directory
+
+  git rm -r --cached FolderName
+  git commit -m "Removed folder from repository"
+  git push origin master
+  
   '''
+  
   
   
 
