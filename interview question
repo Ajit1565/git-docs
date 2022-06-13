@@ -1,0 +1,432 @@
+1. What is picking, store object which formate inside file
+2. Memory management in Python 
+3. Decorator in python
+4. Unpacking in python 
+5 . Difference between get and filter 
+6 signal and custom signal
+7. What is Pre_init signal and post_init signal
+8. Middleware and custom middleware
+9. Authentication and authorization and custom authentication and which module 
+10.what is Authentication policies in django rest framework
+11. Serialazation in django 
+12. How to make rest api in django 
+13. life cycle in django 
+14. Static method in python 
+15. Group by in MySQL 
+16. acid properties in MySQL 
+17. 3rd highest salary in MySQL 
+18. Index in sql
+19 .  How to make index in MySQL 
+20 .  Like in sql 
+21 . Aggregation in django 
+22 .when Fetch multiple values in get what error occurred
+23.what is django rest framework
+
+======================================
+1,What is ORM ? 
+2, convert list  element into string 
+3, How to get data of particular date in ORM 
+4, Sql migrate command
+5)Q function 
+6) count list elements
+7) get all objects in ORM 
+8) diff bw filter and get
+
+=========================================
+1. What is your job role, explain project. 
+2. Difference between list and tuple. 
+3. List methods
+4. How many data types are there, explain. 
+5. Generator
+6. Iterator
+7. Keyword of iterator
+8. What is list comprehension, give an example
+9. What is decorator.
+10. where you have used decorator. 
+11. How many inheritance, name it. 
+12. What is Overloading and overriding. 
+13. What is Monkey patching. 
+14. What is pickling and unpickling. 
+15. What is serialization. 
+16. What is signals. 
+17. How can i get particular data in session. 
+18. How can i deploy my project. 
+18. What is join in mysql. Types of join
+19. Stored processure in mysql. 
+20. How can i get 2nd highest salary from database. 
+21. What is trigger in mysql. 
+22. What type of data you can store in list and tuple.
+23. Difference between append and extend
+24. what are set.
+25. If we fetch a value in set will it give predefined format or something else.
+26. Difference between Shallow copy and deep copy
+27. Difference between xrange and range
+28. Suppose i am giving a loop- for i in range(1,10,2) what will it return.
+29. What method we use in iterator.
+30. If I have a string how can i reverse it, without using method.
+31. How can you convert a list into array.
+32. What is serialization 
+33. What is signals, how it works
+34. Life cycle of django.
+35. What is the use of wsgi file in django.full form of wsgi and working or it.
+36. what is gunicorn.
+37. Realated to apache sever,unix server.
+38. What is init in python.
+39. what arguement we use in constructor.
+40. What is self used in constructor.
+41. If we doing def _init_(self, name): self.name = name, will it work or not
+42. What are the keywords of exceptoin handling in python.
+43. What is the use of try.
+44. If I have 2 table with one common field , how will you use inner join and left join in it.
+45. What does Map() and reduce() do in python.
+46. Difference between args and kwargs.
+47. Difference between join() and split().
+48. What filter return in django.
+
+==================================================
+
+1. Python Basic
+		a. What is the operator?
+		b. What is membership operator and identity operator?
+		c. What is floor division?
+		d. How to get Id()?
+		e. a=1, b=1 does both have same Id or not?
+		f. What is repr()?
+		g. WAP to count from a string?
+		h. Write methods for the list.
+		i. List of zeros python without function or any method.
+		j. What are deep copy and shallow copy?
+		k. How to use deep copy?
+		l. Count occurrence of each number in list.
+		m. What is list comprehension? 
+		n. Multiply each no by 5 with list comprehension
+		o. List_ = ['a', 'aa', 'aaa', 'ababa']. sort the list on the basis of length. 
+		p. Convert list element into string. 
+		q. Prime numbers program.
+		r. Print this Pattern (* * * ***)
+		s. Write a custom insert() function for list eg. def custom_insert (list, index, item).
+		t. Explain the join method. 
+		u. What is the difference between list and tuple?
+		v. Discard() and remove() in Python?
+		w. Packing, unpacking in tuple?
+		x. What is reduce and filter? Examples
+		y. What is common between dictionary and set?
+		z. Sort in dictionary with key
+		aa. How do you add two dictionaries?
+		bb. Can we pass list or tuple as a key in dictionary?
+		cc. Unique dictionary from list.
+		dd. What is a decorator?
+		ee. What is property decorator?
+		ff. What is a generator?
+		gg. Iterator and iterable difference.
+		hh. Difference between generator and iterator in python.
+		ii. What is lazy evaluation in python?
+		jj. What is Monkey Patching in python?
+		kk. What is Magic method in python?
+		
+	2. File Handling
+		a. What is pickling? Format of object stored in file?
+		b. Static file contains which type of file normally?
+		c. How can be file read in specific location?
+		d. How do you remove a file from a folder?
+		e. If user upload excel file check file format if it is valid or invalid.
+		f. What is context manager?
+		g. What is Garbage Collector?
+		h. Memory management in Python?
+		
+	3. Object Oriented Programming
+		a. What is class and object?
+		b. Create a new class in oops?
+		c. What is constructor?
+		d. Why used constructor?
+		e. Advantage of constructor
+		f. What is the class method?
+		g. What is the difference between Static method and Class method?
+		h. Private variable and how we can access that?
+		i. Inheritance and types of inheritance.
+		j. Difference multilevel and multiple inheritance and drawback?
+		k. What is MRO?
+		l. What is  str?
+		
+		
+	4. Exception Handling
+		a. How can we handle errors in python ?
+		b. How many ways exception in python?
+		
+	5. Multithreading
+		a. What is GIL?
+		
+	6. Numpy
+		a. Tell me some python libraries .. Numpy
+		b. Convert a list into numpy
+
+==============================================
+Django Course Content
+         
+
+      Core Python (Week 1)
+   
+ • Introduction to Python
+  
+  • What is Python?
+   
+ • History of Python
+   
+ • Python Versions
+   
+ • Features of Python
+   
+ • How to Install Python
+   
+ • Install Python with Diff IDEs
+   
+ • Creating Your First Python Program
+ 
+  • Printing to the Screen
+   
+ • Reading Keyboard Input
+    
+• Using Command Prompt and GUI or IDE
+              
+
+
+ Different Modes in Python
+    
+• Execute the Script
+   
+ • Interactive Mode
+   
+ • Script Mode
+    
+• Python Comments
+   
+ • Working with Python in Unix/Linux/Windows
+   
+• Python New IDEs
+   
+ • PyCharm IDE
+  
+  • How to Work on PyCharm
+   
+ • PyCharm Components
+    
+• Debugging process in PyCharm
+ 
+   • SublimeText IDE
+    
+• What is PIP?
+          
+
+
+     Variables in Python
+    • What is Variable?
+    • Variables in Python
+    • Constants in Python
+    • Standard Data Types
+    • Operators and Operands
+    • Swap variables
+    • Type Conversion
+    • String Handling
+              
+
+
+ Python Conditional Statements(Week 2)
+    • How to use “if condition” in conditional structures
+    • if statement (One-Way Decisions)
+    • if .. else statement (Two-way Decisions)
+    • How to use “else condition”
+    • if ..elif .. else statement (Multi-way)
+    • When “else condition” does not work
+    • How to use “elif” condition
+    • How to execute conditional statement with minimal code
+    • Nested IF Statement
+             
+
+  Python LOOPS 
+    • How to use “While Loop”
+    • How to use “For Loop”
+    • How to use For Loop for set of other things besides numbers
+    • Break statements in For Loop
+    • Continue statement in For Loop
+    • Enumerate function for For Loop
+               Python Lists
+    • Lists are mutable
+    • Getting to Lists
+    • List indices
+    • Traversing a list
+    • List operations
+    • List slices
+    • List methods
+    • Map, filter and reduce
+              
+
+ Python TUPLE
+    • Advantages of Tuple over List
+    • Packing and Unpacking
+    • Comparing tuples
+    • Creating nested tuple
+    • Using tuples as keys in dictionaries
+    • Deleting Tuples
+    • Slicing of Tuple
+    • Tuple Membership Test
+               Python Sets (Week 3)
+    • How to create a set?
+    • Iteration Over Sets
+    • Python Set Methods
+    • Python Set Operations
+    • Union of sets
+    • Built-in Functions with Set
+    • Python Frozenset
+               Python Dictionary
+    • How to create a dictionary?
+    • Python Hashing?
+    • Python Dictionary Methods
+    • Copying dictionary
+    • Updating Dictionary
+    • Delete Keys from the dictionary
+    • Dictionary items() Method
+    • Sorting the Dictionary
+    • Python Dictionary in-built Functions
+             
+
+
+  Python Functions(Week 3/4)
+    • What is a Function?
+    • How to define and call a function in Python
+    • Types of Functions
+    • Significance of Indentation (Space) in Python
+    • How Function Return Value?
+    • Types of Arguments in Functions
+    • Default Arguments
+    • Non-Default Arguments
+    • Keyword Arguments
+    • Non-keyword Arguments
+    • Arbitrary Arguments
+    • Rules to define a function in Python
+    • Various Forms of Function Arguments
+    • Scope and Lifetime of variables
+    • Anonymous Functions/Lambda functions
+    • map(), filter(), reduce() functions
+    • What is a Docstring?
+               Advanced Python
+    • Python Exception Handling
+    • Python Errors
+    • Common RunTime Errors in PYTHON
+    • Abnormal termination
+    • Chain of importance Of Exception
+    • Exception Handling
+    • Try … Except
+    • Try ..Except .. else
+    • Try … finally
+               Python Class and Objects
+    • Introduction to OOPs Programming
+    • Object Oriented Programming System
+    • OOPS Principles
+    • Basic concept of Object and Classes
+    • Access Modifiers
+    • How to define Python classes
+    • Self-variable in python
+    • What is Inheritance? Types of Inheritance?
+    • How Inheritance works?
+               Python Regular Expressions
+    • What is Regular Expression?
+    • Regular Expression Syntax
+    • Understanding Regular Expressions
+    • Regular Expression Patterns
+    • Literal characters
+              
+
+
+
+ Django Web Framework(Week 5)
+    • What is a Framework
+    • Introduction to Django
+    • Django – Design Philosophies
+    • History of Django
+    • Why django and Features
+    • Environment setup
+    • Web Server
+               MVC Pattern
+    • MVC Architecture vs MVT Architecture
+    • Django MVC – MVT Pattern
+               Getting Started with Django
+    • Creating the first Project
+    • Integrating the Project to sublime text
+    • The Project Structure
+    • Running the server
+    • Solving the issues and Migrations
+    • Database Setup
+    • Setting Up Your Project
+               Create an Application
+    • What Django Follows
+    • Structure of django framework
+    • Model Layer
+    • What are models
+    • Model fields
+    • Querysets
+              
+
+
+
+ Django – Admin Interface(Week 6)
+    • Starting the Admin Interface
+    • Migrations
+               Views Layer
+    • Simple View
+    • Basic view(displaying hello world)
+    • Functional views, class based views
+               Django – URL Mapping
+    • Organizing Your URLs
+    • Role of urls in djnago
+    • Working urls
+    • Forms
+    • Sending Parameters to Views
+    • Templates layer
+    • The Render Function
+               Django Template Language (DTL)
+    • Role of template layer in django
+    • Filters,Tags, Tag if, Tag for, Block and Extend Tags
+    • Comment Tag, Usage of templates
+    • Extending base template
+               Django – Models
+    • Creating a Model
+    • Manipulating Data (CRUD)
+    • Linking Models
+    • Django – Page Redirection
+              
+
+
+
+ Django – Sending E-mails(Week 7)
+    • Sending a Simple E-mail
+    • Sending Multiple Mails with send_mass_mail
+    • Sending HTML E-mail
+    • Sending HTML E-mail with Attachments
+               Django – Form Processing
+    • Using Form in a View
+    • Usage of forms
+    • Crud operations using forms
+    • Crispy forms in django
+           
+
+
+
+    Django – File Uploading(Week 8)
+    • Uploading an Image
+    • Django – Apache Setup
+               Django – Cookies Handling
+    • Django – Sessions
+    • Django – Comments
+               Django Admin
+    • Creating Super User
+    • Using admin in Django
+    • Adding models to admin
+    • Adding model objects using admin
+    • Displaying in cmd using querysets
+               Static files
+    • Loading css files into templates
+    • Loading js files into templates
+    • Uploading image using models
+    • User authentication
+               Sample Projects and Websites
+    • News website (BLOGs Forums)
